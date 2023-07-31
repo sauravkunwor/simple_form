@@ -1,0 +1,12 @@
+.btn {
+    position: relative;
+    margin-left: 55%;
+  }
+  
+  div {
+    border: 1px solid;
+    margin: auto;
+    width: 22%;
+    padding: 10px;
+    text-align: left;
+  }
